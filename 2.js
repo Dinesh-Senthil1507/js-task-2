@@ -15,15 +15,14 @@ switch(true){
     break;
     }
 
-
 let num="3";
 let a=Number(num);
 if(a%2==0){
     console.log("Even");
-} else {
+} 
+else {
     console.log("Odd");
 }
-
 
 let s="3";
 let d=Number(s);
